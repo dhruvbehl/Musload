@@ -51,6 +51,15 @@ Alternatively, refer to the developer instructions for how to check out and work
 To use Musload follow the below mentioned steps:
 
 1) Create a list with names of the content in the input.txt file
-2) Enter into sudo mode using 'sudo -s'
-3) Run the script using 'python musload.py'
+
+2) Enter into sudo mode using 
+```sh
+'sudo -s'
+```
+
+3) Run the script using 
+```sh
+'python musload.py'
+```
+
 4) All the required content should be downloaded in the Output folder 
