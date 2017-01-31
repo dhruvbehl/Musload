@@ -1,2 +1,2 @@
 # Musload
-Python based app to download data from youtube in audio or video format
+Python based app to download youtube content in audio or video format
