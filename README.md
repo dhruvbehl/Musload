@@ -16,7 +16,7 @@ To use Musload there are a few dependencies that must be taken care:
 To install it right away for all UNIX users (Linux, OS X, etc.), type:
 
 ```bash
-sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl```
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
